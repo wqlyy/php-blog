@@ -9,6 +9,6 @@
 	<?php include(PATH.'/head.inc.php');?>
 </head>
 <body>
-	后台首页
+	<?php include('nav.inc.php'); ?>
 </body>
 </html>
